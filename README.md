@@ -8,19 +8,22 @@
 ```
 
 <p align="center">
-  <img src="/README/PongNoFrameskip-v4-history0.jpg" alt="Description" width="100" height="100" border="0" />
-  <img src="/README/PongNoFrameskip-v4-history1.jpg" alt="Description" width="100" README="100" border="0" />
-  <img src="/README/PongNoFrameskip-v4-history2.jpg" alt="Description" width="100" README="100" border="0" />
-  <img src="/README/PongNoFrameskip-v4-history3.jpg" alt="Description" width="100" height="100" border="0" />
+  <img src="/README/PongNoFrameskip-v4-history0.jpg" alt="Description" width="120" height="120" border="0" />
+  <img src="/README/PongNoFrameskip-v4-history1.jpg" alt="Description" width="120" README="120" border="0" />
+  <img src="/README/PongNoFrameskip-v4-history2.jpg" alt="Description" width="120" README="120" border="0" />
+  <img src="/README/PongNoFrameskip-v4-history3.jpg" alt="Description" width="120" height="120" border="0" />
 </p>
 <p align="center">
-  <img src="/README/BreakoutNoFrameskip-v4-history0.jpg" alt="Description" width="100" height="100" border="0" />
-  <img src="/README/BreakoutNoFrameskip-v4-history1.jpg" alt="Description" width="100" README="100" border="0" />
-  <img src="/README/BreakoutNoFrameskip-v4-history2.jpg" alt="Description" width="100" README="100" border="0" />
-  <img src="/README/BreakoutNoFrameskip-v4-history3.jpg" alt="Description" width="100" height="100" border="0" />
+  Figure 1: Consecutive Samples of Pong 
 </p>
 <p align="center">
-  Figure 1: Consecutive Samples (Pong and Breakout) 
+  <img src="/README/BreakoutNoFrameskip-v4-history0.jpg" alt="Description" width="120" height="120" border="0" />
+  <img src="/README/BreakoutNoFrameskip-v4-history1.jpg" alt="Description" width="120" README="120" border="0" />
+  <img src="/README/BreakoutNoFrameskip-v4-history2.jpg" alt="Description" width="120" README="120" border="0" />
+  <img src="/README/BreakoutNoFrameskip-v4-history3.jpg" alt="Description" width="120" height="120" border="0" />
+</p>
+<p align="center">
+  Figure 2: Consecutive Samples of Breakout 
 </p>
 
 - Action (Output)  
@@ -53,11 +56,11 @@ python DDQN.py --retrain --env BreakoutNoFrameskip-v4 --model_path out/BreakoutN
 
 ## Result
 
-PongNoFrameskip-v4 (Discrete)  | BreakoutNoFrameskip-v4 (Discrete)
-:-----------------------------:|:-----------------------------:
+PongNoFrameskip-v4 (Discrete)                 | BreakoutNoFrameskip-v4 (Discrete)
+:--------------------------------------------:|:--------------------------------------------:
 ![](/README/PongNoFrameskip-v4.gif) |  ![](/README/BreakoutNoFrameskip-v4.gif)
 <p align="center">
-  Figure 2: Reinforcement Learning DDQN on Atari Game
+  Figure 3: Reinforcement Learning DDQN on Atari Game
 </p>
 
 ## Reference
